@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React**
 
-- 📫 How to reach me **tejaswini.surendram.dev**
+- 📫 How to reach me **tejaswinis.dev**
 
 - 📄 Know about my experiences [tejaswini.dev0@gmail.com](tejaswini.dev0@gmail.com)
 
